@@ -1,4 +1,4 @@
-# 👋 Hello! I'm futreall
+# 👋 Hey! I'm futreall
 
 ---
 
