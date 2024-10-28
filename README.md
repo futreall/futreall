@@ -40,11 +40,6 @@ I'm a blockchain technology enthusiast with a focus on **open-source contributio
 
 ---
 
-## 🏆 Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=futreall&theme=radical&no-bg=true&no-frame=true&column=7)
-
----
-
 ## 🤖 Fun Facts
 - 🌱 Always exploring new technologies, especially in the fields of blockchain and Web3.
 - 💬 Open to networking and love meeting new people who share a passion for development and innovation.
