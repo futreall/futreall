@@ -33,17 +33,7 @@ I'm a blockchain technology enthusiast with a focus on **open-source contributio
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://twitter.com/futreaII"><img src="https://img.shields.io/badge/X-@futreaII-blue?style=flat&logo=twitter" /></a>
-  <a href="https://farcaster.com/futreall"><img src="https://img.shields.io/badge/Farcaster-@futreall-blueviolet?style=flat" /></a>
+  <a href="[https://warpcast.com/futreall](https://warpcast.com/futreall)"><img src="https://img.shields.io/badge/Farcaster-@futreall-blueviolet?style=flat" /></a>
   <a href="https://debank.com/profile/0xe5e2362ae3b317b9f61078c2f93a89a3184cc378"><img src="https://img.shields.io/badge/DeBank-Profile-ff69b4?style=flat&logo=debank" /></a>
   <a href="mailto:lola228lola228@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
-
----
-
-## 🤖 Fun Facts
-- 🌱 Always exploring new technologies, especially in the fields of blockchain and Web3.
-- 💬 Open to networking and love meeting new people who share a passion for development and innovation.
-- 🌐 Enjoy participating in hackathons and developer events where I can connect with like-minded people and exchange ideas.
-- ✈️ Love traveling and exploring how technology integrates into different cultures and countries.
-- 🎓 Constantly upgrading my skills through online courses on programming and blockchain development.
-- 💼 Actively working on my networking skills to build strong professional connections in the tech world.
