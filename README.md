@@ -1,14 +1,12 @@
 # 👋 Hey! I'm futreall
 
-
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ---
 
 ## 🚀 GitHub Overview
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
 </div>
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ---
 
