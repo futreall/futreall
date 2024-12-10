@@ -1,10 +1,11 @@
-# 👋 Hey! I'm futreall
+# 👋 Hey! I'm futreall <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="50" height="50" alt="ETH" />
+
 
 ---
 
 ## 🚀 GitHub Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=radical" alt="GitHub Stats" height="120"/> <img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> 
 
 
 ---
