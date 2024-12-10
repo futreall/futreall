@@ -1,1 +1,25 @@
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 0 * * *" # Запускается каждый день в полночь
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: YOUR_USERNAME # Замените на ваш GitHub username
+          outputs: dist/output.svg
+
+      - name: Push Snake to the repository
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
