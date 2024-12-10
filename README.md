@@ -10,6 +10,9 @@
 
 ---
 
+![snake gif](https://github.com/futreall/futreall/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🧑‍💻 About Me
 I'm a blockchain technology enthusiast with a focus on **open-source contributions** and **code optimization**. I enjoy diving deep into the code, finding ways to enhance performance, and improving the developer experience. Let's build something amazing together!
 
@@ -38,4 +41,3 @@ I'm a blockchain technology enthusiast with a focus on **open-source contributio
   <a href="mailto:lola228lola228@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
 
-![snake gif](https://github.com/futreall/futreall/blob/output/github-contribution-grid-snake.svg)
