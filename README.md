@@ -1,4 +1,5 @@
 # 👋 Hey! I'm futreall
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ---
 
