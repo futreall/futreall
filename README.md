@@ -22,18 +22,6 @@ I'm a blockchain technology enthusiast with a focus on **open-source contributio
 
 ---
 
-## 💼 Skills & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Blockchain-%2307405e.svg?&style=for-the-badge&logo=blockchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-%23316192.svg?&style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://twitter.com/futreaII"><img src="https://img.shields.io/badge/X-@futreaII-blue?style=flat&logo=twitter" /></a>
