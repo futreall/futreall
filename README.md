@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />)
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/futreall/futreall/output/github-contribution-grid-snake.svg)
 
