@@ -1,16 +1,18 @@
 # 👋 Hey! I'm futreall <img src="https://emoji.discadia.com/emojis/d35eef48-0f44-4a15-affd-b1e8fefba414.GIF" width="50" height="50" alt="ETH" />
 
-
 ---
+
 ## 🚀 GitHub Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> 
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/futreall/futreall/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
-
-  ![snake gif](https://github.com/futreall/futreall/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🧑‍💻 About Me
 I'm a blockchain technology enthusiast with a focus on **open-source contributions** and **code optimization**. I enjoy diving deep into the code, finding ways to enhance performance, and improving the developer experience. Let's build something amazing together!
