@@ -37,6 +37,4 @@ I'm a blockchain technology enthusiast with a focus on **open-source contributio
   <a href="https://twitter.com/futreaII"><img src="https://img.shields.io/badge/X-@futreaII-blue?style=flat&logo=twitter" /></a>
   <a href="https://warpcast.com/futreall"><img src="https://img.shields.io/badge/Farcaster-@futreall-blueviolet?style=flat" /></a>
   <a href="https://debank.com/profile/0xe5e2362ae3b317b9f61078c2f93a89a3184cc378"><img src="https://img.shields.io/badge/DeBank-Profile-ff69b4?style=flat&logo=debank" /></a>
-  <a href="mailto:lola228lola228@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
 </p>
-
