@@ -16,7 +16,7 @@
 I'm a blockchain technology enthusiast with a focus on **open-source contributions** and **code optimization**. I enjoy diving deep into the code, finding ways to enhance performance, and improving the developer experience. Let's build something amazing together!
 
 - 🔥 Always open for interesting projects
-- 📫 Reach me at [futreall](https://warpcast.com/futreall) on Farcaster
+- 📫 Reach me at [futreall](https://farcaster.xyz/futreall) on Farcaster
 
 ---
 
