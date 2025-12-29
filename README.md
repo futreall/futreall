@@ -5,12 +5,8 @@
 ## 🚀 GitHub Overview
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=futreall&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futreall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futreall&layout=compact&theme=tokyonight&hide_border=true)
+  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=futreall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/futreall/futreall/output/github-contribution-grid-snake.svg)
 
